@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi there, I'm Chandu Jannu!
+## 💻 Frontend Developer
+Building responsive and interactive web applications using **HTML,CSS,JavaScript**
+## Tech Stack
+- HTML5
+- CSS3
+- JavaScript (E56+)
+### What im Working On
+- Building portfolio projects
+- Creating responsive websites
+- Learning best practices in web development
+### Lets connect
+ - GitHub: [@chandu-jannu](https://github.com/chandu-jannu)
+---
+✨ *Open to collaboration and project opportunities!*
 
-<!--
-**chandu-jannu/chandu-jannu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
