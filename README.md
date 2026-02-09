@@ -4,7 +4,7 @@ Building responsive and interactive web applications using **HTML,CSS,JavaScript
 ## Tech Stack
 - HTML5
 - CSS3
-- JavaScript (E56+)
+- JavaScript (ES6+)
 ### What im Working On
 - Building portfolio projects
 - Creating responsive websites
