@@ -1,4 +1,7 @@
 # 👋 Hi there, I'm Chandu Jannu!
+<p align="center">
+  <a href="https:https://chandujannu-portofolio.netlify.app/">
+    <img src="https://img.shields.io/badge/portfolio-Connect-blue?style=for-the-badge&logo=portfolio"/>
 ## 💻 Frontend Developer
 Building responsive and interactive web applications using **HTML,CSS,JavaScript**
 ## Tech Stack
