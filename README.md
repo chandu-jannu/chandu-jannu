@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Chandu Jannu!
 <p align="center">
-  <a href="https://chandujannu-portofolio.netlify.app/">
+  <a href="https://chandujannu-portofolio.netlify.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/portfolio-Connect-blue?style=for-the-badge&logo=portfolio"/>
   </a>
 </p>
