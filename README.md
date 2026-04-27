@@ -8,8 +8,8 @@
 ## 💻 Frontend Developer
 Building responsive and interactive web applications using **HTML,CSS,JavaScript**
 ## Tech Stack
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript (ES6+)
 ### What im Working On
 - Building portfolio projects
